@@ -1,0 +1,5 @@
+{
+  "dataset_xlsx": "homograph_analysis\\homograph_data\\JA_Homograph_Dataset.xlsx",
+  "model": "JABERT",
+  "layer": "-1",
+  "outfolder": "homograph_analysis\\homograph_data\\all_samples"}

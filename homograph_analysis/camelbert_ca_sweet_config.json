@@ -1,0 +1,6 @@
+{
+  "dataset_xlsx": "homograph_analysis\\homograph_data\\Arabic_Homograph_dataset.xlsx",
+  "model": "CAMELBERT_CA_SWEET",
+  "layer": "-1",
+  "outfolder": "homograph_analysis\\homograph_data\\all_samples"
+}

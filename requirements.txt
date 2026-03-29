@@ -1,0 +1,14 @@
+pytest
+regex
+tqdm
+unicodedata2
+transformers
+pandas
+torch
+datasets
+wandb
+scikit-learn
+openpyxl
+matplotlib
+seaborn
+umap-learn
